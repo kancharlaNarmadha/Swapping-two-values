@@ -18,8 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 
 
+![4 1 screen](https://user-images.githubusercontent.com/119559316/226267820-f44a7d85-4f2f-4962-b61e-5064f32a4b28.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
