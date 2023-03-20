@@ -17,12 +17,23 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+##PROGRAM:
+```
+#Program to swap two values.
+#Developed by: Kancharla Narmadha
+#RegisterNumber:212222110016
+num1,num2=float(input()),float(input())
+temp=num1
+num1=num2
+num2=temp
+print("Swapped values are:",num1,num2)
+```
 ## output:
+![swapping](https://user-images.githubusercontent.com/119559316/226269430-024eefaf-5680-4a71-870c-768757515a6a.png)
 
-![4 1 screen](https://user-images.githubusercontent.com/119559316/226267820-f44a7d85-4f2f-4962-b61e-5064f32a4b28.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are executed successfully.
 
 
 
